@@ -1,2 +1,2 @@
 Print(“Hallo Wereld !”)
-Print("test")
+print(“Welkom in onze ijssalon”)
